@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="code16-3csb-Struts2-Payroll-TagLibrary">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="java-output-path" value="/code16-3csb-Struts2-Payroll-TagLibrary/build/classes"/>
+        <property name="context-root" value="code22-Struts2-Payroll-ModelDrivenGenerics-JDBC-JNDI-JTA"/>
+    </wb-module>
+</project-modules>
